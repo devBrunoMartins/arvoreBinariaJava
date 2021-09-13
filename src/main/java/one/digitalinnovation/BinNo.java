@@ -10,7 +10,7 @@ public class BinNo<T extends Comparable<T>> {
         this.conteudo = conteudo;
         noEsq = noDir = null;
     }
-    
+
     public BinNo() {
     }
 
